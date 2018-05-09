@@ -1,7 +1,7 @@
 
-print("first person/second repository")
+print("updated from first/second repository")
 print("hello world")
-print("NO merge conflict")
+print("NOooo merge conflict")
 
 
 
