@@ -1,4 +1,4 @@
-print("this is second person repository")
+print("updated from second/first repository")
 print("hello india")
 
 
